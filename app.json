@@ -1,37 +1,4 @@
 {
-  "expo": {
-    "name": "RunMyShop Admin",
-    "slug": "runmyshop-mobile",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "dark",
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#0F0F1A"
-    },
-    "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.runmyshop.admin"
-    },
-    "android": {
-      "package": "com.runmyshop.admin",
-      "adaptiveIcon": {
-        "backgroundColor": "#7C3AED",
-        "foregroundImage": "./assets/android-icon-foreground.png",
-        "backgroundImage": "./assets/android-icon-background.png",
-        "monochromeImage": "./assets/android-icon-monochrome.png"
-      },
-      "predictiveBackGestureEnabled": false
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "aa848662-c18d-47ad-aa0a-0829c808e619"
-      }
-    }
-  }
+  "name": "RunMyShopAdmin",
+  "displayName": "RunMyShopAdmin"
 }
